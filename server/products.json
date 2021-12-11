@@ -24,7 +24,7 @@
       "name": "best three",
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
       "price": 234,
-      "categoryId": 3,
+      "categoryId": 2,
       "qty": 10
     },
     {
@@ -33,7 +33,7 @@
       "name": "best four",
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
       "price": 234,
-      "categoryId": 3,
+      "categoryId": 4,
       "qty": 10
     },
     {
@@ -42,7 +42,7 @@
       "name": "best five",
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
       "price": 234,
-      "categoryId": 3,
+      "categoryId": 6,
       "qty": 10
     },
     {
@@ -60,7 +60,7 @@
       "name": "best seven",
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
       "price": 234,
-      "categoryId": 3,
+      "categoryId": 2,
       "qty": 10
     },
     {
@@ -78,7 +78,7 @@
       "name": "best ever",
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
       "price": 234,
-      "categoryId": 3,
+      "categoryId": 4,
       "qty": 10
     }
   ]
